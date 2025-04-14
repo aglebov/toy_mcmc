@@ -1,0 +1,1 @@
+A toy implementation of the Metropolis-Hastings MCMC algorithm.
